@@ -1,4 +1,4 @@
-# gh-pages-minima-starter
+# Voided-Name's Vlog 
 
 blog site based on [gh-pages-minima-starter]
 
